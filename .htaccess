@@ -3,5 +3,4 @@ RewriteCond %{HTTP_REFERER} !^protocol://site.domain$ [NC]
 RewriteCond %{HTTP_REFERER} !^protocol://www.site.domain/.*$ [NC]
 RewriteCond %{HTTP_REFERER} !^protocol://www.site.domain$ [NC]
 
-RewriteRule ^(.*)$ index.php/$1
 RewriteRule .*\.(jpg|jpeg|gif|png|bmp|mp4|m4v)$ - [F,NC]
