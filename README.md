@@ -1,6 +1,6 @@
 ## Information
 
-Use htaccess to prevent direct access to media files. 
+Prevent direct access to media files (preventing users from downloading files). 
 Allows selective access based of allowed referral urls. 
 Ideal for sites where assets can only be viewd within the confines of the site.
 
