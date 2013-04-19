@@ -2,7 +2,7 @@
 
 Prevent direct access to media files (preventing users from downloading files). 
 Allows selective access based of allowed referral urls. 
-Ideal for sites where assets can only be viewd within the confines of the site.
+Ideal for sites where assets can only be viewed within the confines of the site.
 
 ## How to use
 
